@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SandeeoJangid
+- 👋 Hi, I’m @SandeepJangid
 - 👀 I’m interested in Devops technologies
 - 🌱 I’m currently learning Git, Docker, K8, Ansible, Terraform
 - 💞️ I’m looking to collaborate on Cloud and Devops technologies
